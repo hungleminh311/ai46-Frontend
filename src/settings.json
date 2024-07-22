@@ -1,0 +1,71 @@
+{
+  "components": [
+    {
+      "id": "BannerWithLink",
+      "variables": {
+        "subtitle": "Discover hassle-free car rentals with unbeatable rates. Whether it's for a day or a week, drive away with joy and convenience.",
+        "title": "Need a Ride? We've Got You Covered!"
+      }
+    },
+    {
+      "id": "NavbarSimple",
+      "variables": {
+        "subtitle": "Discover hassle-free car rentals with unbeatable rates. Whether it's for a day or a week, drive away with joy and convenience.",
+        "title": "Need a Ride? We've Got You Covered!"
+      }
+    },
+    {
+      "id": "HeroWithOffsetImage",
+      "variables": {
+        "subtitle": "Discover hassle-free car rentals with unbeatable rates. Whether it's for a day or a week, drive away with joy and convenience.",
+        "title": "Need a Ride? We've Got You Covered!"
+      }
+    },
+    {
+      "id": "TestimonialsGrid",
+      "variables": {
+        "subtitle": "Discover hassle-free car rentals with unbeatable rates. Whether it's for a day or a week, drive away with joy and convenience.",
+        "title": "Need a Ride? We've Got You Covered!"
+      }
+    },
+    {
+      "id": "StatsSimpleGrid",
+      "variables": {
+        "subtitle": "Discover hassle-free car rentals with unbeatable rates. Whether it's for a day or a week, drive away with joy and convenience.",
+        "title": "Need a Ride? We've Got You Covered!"
+      }
+    },
+    {
+      "id": "CtaSimpleCentered",
+      "variables": {
+        "subtitle": "Discover hassle-free car rentals with unbeatable rates. Whether it's for a day or a week, drive away with joy and convenience.",
+        "title": "Need a Ride? We've Got You Covered!"
+      }
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText",
+      "variables": {
+        "subtitle": "Discover hassle-free car rentals with unbeatable rates. Whether it's for a day or a week, drive away with joy and convenience.",
+        "title": "Need a Ride? We've Got You Covered!"
+      }
+    },
+    {
+      "id": "NewsletterCenteredCard",
+      "variables": {
+        "subtitle": "Discover hassle-free car rentals with unbeatable rates. Whether it's for a day or a week, drive away with joy and convenience.",
+        "title": "Need a Ride? We've Got You Covered!"
+      }
+    },
+    {
+      "id": "FooterSimpleCentered",
+      "variables": {
+        "subtitle": "Discover hassle-free car rentals with unbeatable rates. Whether it's for a day or a week, drive away with joy and convenience.",
+        "title": "Need a Ride? We've Got You Covered!"
+      }
+    }
+  ],
+  "theme": "minimal",
+  "font": "",
+  "title": "Need a Ride? We've Got You Covered!",
+  "subtitle": "Discover hassle-free car rentals with unbeatable rates. Whether it's for a day or a week, drive away with joy and convenience."
+}
